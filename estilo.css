@@ -17,6 +17,12 @@ body{
 
 .ul > li{
     margin-right: 60px;
+    
+    
+}
+li > a{
+    color: aliceblue;
+    text-decoration: none;
 }
 .ul > li:first-child {
     margin-top: -5px;
@@ -80,7 +86,7 @@ h2{
     width: 12px;
     
 }
-a{
+.edit >a{
     color: rgb(108, 108, 170);
 }
 .cabeza2{
